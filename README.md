@@ -1,5 +1,9 @@
 oyd day 8 task assignment
-1.Q1.word frequency counter (with out apostrope and fullstop)
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+Q1.word frequency counter (with out apostrope and fullstop)
 Q2.top 3 words ===== <p> with frequency
 Q3.WAP to guess a number that has randomly selected with top down pseusocode
 6 lives
