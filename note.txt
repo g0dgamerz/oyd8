@@ -1,0 +1,194 @@
+Image Processing
+
+different library / modules are needed
+
+from PIL import Image
+pip install pillow
+pip install image
+
+img.read()---read image
+img.show()
+img.corp()
+area(x1,y1,x2,y2)
+img.paste()
+
+from numpy import np
+modules === method ===>to beautify code(collection of library , class )
+maingame.py gunda.py block.py info.py
+web crawl
+
+class===>function object variables post define
+
+class classname(self):
+class fun():
+	def nocopy():
+		print("happy")
+
+object
+
+class sagar():
+	def __init__(self):
+		print('initilization')
+	def jidesh(self):
+		print('khichadi')
+
+a=sagar()
+a.jidesh()==khichadi
+
+
+class OYD():
+	def __init__(self):
+			print('jidesh le')
+		def jidesh(self):
+			print('khichadi lyayoo')
+
+prabesh-OYD()
+prabesh.jidesh()
+===> jidesh le khichadi lyayoo
+
+class varialbe , instant variable
+
+inheriantance
+parent, child get the property of parent
+
+threading====random generated
+
+multitasking
+
+
+
+Q1.word frequency counter (with out apostrope and fullstop)
+Q2.top 3 words ===== <p> with frequency
+
+
+zip===make list or pair,
+
+map==== manipulation
+
+Q3.WAP to guess a number that has randomly selected with top down pseusocode
+	6 lives
+
+
+
+	welcome 2 game
+	delay(2000);
+	ready to play?
+	press y to start game n to quit game
+	delay(1000)
+	delay(1000)
+	delay(1000)
+	you have six lives
+
+Q4.create python project to get the value pi to n number of decimal place?
+Q5.WAP to download IMDBs top 250 data (movie name , initail release date , director name, star)
+Q6.WAP to print the song 99 bottle of beer 
+Q7.2-img.read take -------- 	1 image crop in size (10,10,100,100) and paste in 2nd image and 	 show to 2nd image
+
+the new boston
+sentdex
+
+def health(age, protien,churot):
+	ans=(100-age)+(protien*3*8)-(churot*2)
+	print(ans)
+
+
+mydata=[25,1400,0]
+
+health[*mydata]
+
+
+
+
+===================================
+
+
+import info
+import ramdom
+
+info.imformation()
+x=random.randrange(1,1000)
+print(x)
+=========================================
+
+
+img
+
+import ramdom
+import urllib.request-----------put,get,patch
+
+
+def download_web_image(url):
+	name=random.randrange(1,1000)
+	full_name=(str(name)+ ".jpg")
+	urllib.request.urlretrive(url,full_name)
+
+download_web_image("ture url")
+
+
+=============================================class enemy:
+	life=3
+	def __init__(self):
+		print("game start")
+	def attact(self):
+		print("are baba")
+		self.life -=1
+	def checklife(self):
+		if self.life <= 0:
+			print("mare mare mare")
+		else:
+			print(str(self.life)+" life left")
+enemy1 = enemy()
+enemy2= enemy()
+enemy1.attact()
+enemy1.attact()
+enemy1.attact()
+enemy1.attact()
+enemy2.checklife()
+enemy2.checklife()
+
+=============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
